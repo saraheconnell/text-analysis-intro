@@ -2,7 +2,7 @@
 
 **Week 1**
 
-March 2nd (Tuesday)
+March 2nd (Thursday)
 * [Why Learn Text Analysis? for Digital Humanities](./why-dh.md) ([Slides Version](https://tinyurl.com/yabsasgp
 )) 
 * [Why Learn Text Analysis? for Business and Data Science](./why-ds.md) ([Slides Version](tinyurl.com/verqmpd))
